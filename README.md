@@ -1,1 +1,16 @@
-# exam-business-master
+## 开发
+
+    npm install && gulp dev
+
+## 文件结构
+
+源码位于"src"文件夹下，打包文件位于"dist"文件夹下
+
+## 已知缺陷
+
+ - 没有使用webfont，字体与设计稿有出入
+ - 商品图片数目大于三张时应该可以左右滑动
+ - 各种选项的表单以及隐藏域未添加
+ - ...
+
+PS. 使用了sticky footer布局技巧
